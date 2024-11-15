@@ -8,6 +8,7 @@ In the ever-evolving landscape of industrial automation, leveraging advanced tec
 
 Introduction to mySCADA Development
 The mySCADA platform has revolutionized industrial automation by providing robust tools for real-time data monitoring and control. In our project, mySCADA serves as the backbone, enabling seamless integration and management of multiple devices.
+![Level_Detection](https://github.com/user-attachments/assets/67dc4fc8-4eba-4b72-ba1e-823c331e5503)
 
 Leveraging Python for Efficient Data Handling
 Python's versatility makes it an ideal choice for handling data within our SCADA system. From data collection to processing, Python scripts ensure that information from various sensors is accurately captured and analyzed. This enables quick decision-making and enhances overall system efficiency.
@@ -43,3 +44,5 @@ Conclusion and Future Directions
 The mySCADA project is a testament to the power of integrating cutting-edge technologies in industrial automation. As we move forward, the focus will be on further enhancing system capabilities and exploring new technologies to push the boundaries of what's possible in industrial automation.
 
 Through this journey, I've gained invaluable experience and look forward to applying these insights to future projects, continually striving to innovate and improve.
+
+
