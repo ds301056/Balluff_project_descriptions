@@ -18,12 +18,14 @@ JavaScript plays a crucial role in creating intuitive user interfaces. By integr
 
 REST API Integration
 The integration of REST APIs is a game-changer, allowing seamless communication between different components of the system. By leveraging REST APIs, we ensure that data flows smoothly from sensors to the SCADA platform, facilitating real-time updates and interactions.
+![Condition_Monitoring_Processes](https://github.com/user-attachments/assets/9c2f6dfd-7612-4354-a937-b0a0c00c2934)
 
 Comprehensive Sensor Network
 Our project manages a large system comprising 12 items, each equipped with over 10 sensors. These sensors capture critical data, such as temperature, pressure, and flow rates. The comprehensive sensor network ensures that every aspect of the industrial process is monitored and controlled precisely.
 
 Communication Protocols: Ethernet IP, Profinet, MQTT
 Robust communication is essential for the smooth functioning of any SCADA system. We utilized Ethernet IP, Profinet, and MQTT protocols to ensure reliable data transfer between sensors, PLCs, and the mySCADA platform. This guarantees that data is always up-to-date and available for analysis.
+![Vacum_Condition_Monitoring](https://github.com/user-attachments/assets/3b9fa2c5-1b37-41ef-ab91-dd8b29902090)
 
 Siemens PLC Integration
 Siemens PLCs are renowned for their reliability and performance in industrial automation. Integrating Siemens PLCs into our SCADA system allows for advanced control and automation, ensuring that processes run smoothly and efficiently.
